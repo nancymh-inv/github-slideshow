@@ -2,5 +2,5 @@
 layout: slide
 title: "Welsome to our second slide!"
 ---
-Your text 
+"be curious and fearless" 
 Use the left arrow to go back!
